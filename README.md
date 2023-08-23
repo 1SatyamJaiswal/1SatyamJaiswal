@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1satyamjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="1satyamjaiswal" /> </p>
 
-- 🔭 I’m currently working on an **App for healthy lifestyle**
+- 🔭 I’m currently working on an **Event Ease**
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**, **Nextjs**
 
 - 📫 How to reach me **satyamjaiswal9752@gmail.com**
 
