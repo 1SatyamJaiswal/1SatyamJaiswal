@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Jaiswal</h1>
-<h3 align="center">A web developer using MERN stack</h3>
+<h3 align="center">A Web Developer using MERN stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1satyamjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="1satyamjaiswal" /> </p>
 
