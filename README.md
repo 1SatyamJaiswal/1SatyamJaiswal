@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1satyamjaiswal&show_icons=true&locale=en" alt="1satyamjaiswal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1satyamjaiswal&" alt="1satyamjaiswal" /></p>
+
+[![1SatyamJaiswal's GitHub | Stats](https://stats.quine.sh/1SatyamJaiswal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=1SatyamJaiswal)
